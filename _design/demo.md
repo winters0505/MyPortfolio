@@ -1,7 +1,7 @@
 ---
-title: "git demo"
-tools: [github, html]
-description: "demo for markdown"
+title: "free guy poster"
+tools: [adobe after effects, photoshop]
+description: "animated poster"
 layout: 
 permalink: 
 ---
