@@ -1,7 +1,7 @@
 ---
 title: "nba sport cards"
 tools: [Photoshop]
-description: "a series of NBA cards" : 
+description: "a series of NBA cards"
 permalink: 
 ---
 
